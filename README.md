@@ -71,9 +71,9 @@ Durante esse inicio de jornada o foco está sendo em:<br>
 <h2 dir="auto"> 📝 Meus Contatos </h2> 
 
 <ul dir="auto">
-  <li> 🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a></li>
-  <li> 🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a></li>
-  <li> 🔶<a href="https://www.behance.net/diegojfsr"> <strong>Behance</strong> </a></li>
+🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a>  |
+  🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a>  |
+  🔶<a href="https://www.behance.net/diegojfsr"> <strong>Behance</strong> </a></li>
 </ul>
 
 
