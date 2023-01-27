@@ -67,7 +67,7 @@ Durante esse inicio de jornada o foco está sendo em:<br>
   <li>Desenvolver aplicações com, JavaScript, Java e Angular;</li>
 </ul>
  
- 
+
 <h2 dir="auto"> 📝 Meus Contatos </h2> 
 
 <ul dir="auto">
