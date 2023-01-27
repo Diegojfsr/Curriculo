@@ -1,22 +1,11 @@
-<h1>DIEGO JEFFERSON S. ROSA</h1>
-<h2>Desenvolvedor Frontend</h2>
-<ul dir="auto">
-  <li> diegojfsr@gmail.com </li>
-  <li> 21 9 6720-8702 </li>
-  <li> Linkedin: <a href="https://www.linkedin.com/in/diegojfsr/"> Acessar </a></li>
-  <li> Github: <a href="https://github.com/Diegojfsr"> Acessar </a></li>
-  <li> Behance: <a href="https://www.behance.net/diegojfsr"> Acessar </a></li>
-</ul>
+<p dir="auto">
+  <h1>Olá! 👋😁Tudo bem!  <br>
+  Sou Diego Jefferson, Frontend Developer</h1>  
+</p> 
 
-
-diegojfsr@gmail.com<br>
-21 9 6720-8702<br>
-linkedin.com/in/diegojfsr
-github.com/Diegojfsr
-behance.net/diegojfsr<br>
 
 <h2>DECLARAÇÃO PESSOAL</h2>
-Desenvolvedor frontend curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos
+Desenvolvedor Frontend curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos
 Métodos de Desenvolvimento e Processos de Inovação.
   
 <h2>OBJETIVO</h2>
@@ -78,6 +67,15 @@ Durante esse inicio de jornada o foco está sendo em:<br>
   <li>Desenvolver aplicações com, JavaScript, Java e Angular;</li>
 </ul>
  
+ 
+<h2 dir="auto"> 📝 Meus Contatos </h2> 
+
+<ul dir="auto">
+  <li> 🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a></li>
+  <li> 🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a></li>
+  <li> 🔶<a href="https://www.behance.net/diegojfsr"> <strong>Behance</strong> </a></li>
+</ul>
+
 
   
   
