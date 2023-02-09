@@ -32,22 +32,6 @@ Durante minha jornada diária, algumas das minhas responsabilidades são:<br>
   
 <h2>PROJETOS | EXPERIÊNCIAS</h2>
 Esses são alguns dos projetos que gosto de destacar, é que tive a oportunidade de participar:
-<h3>Santander Dev Week</h3>
-O objetivo principal é construir uma aplicação que gera extratos bancários. E as atividades desenvolvidas foram:<br>
-<ul dir="auto">
-  <li>Abstrair o Domínio Bancário em Uma API REST com Java;</li>
-  <li>Construir um Front-end com Angularjs do Extrato Bancário;</li>
-</ul>
-
-
-<h3>Carrefour Web Developer</h3>
-Durante a jornada, aprendi e trabalhei com, JavaScript, ReactJS, JAVA e Spring Boot. Onde tive a oportunidade de:<br>
-<ul dir="auto">
-  <li>Criar interfaces, tendo como base modelos definidos pelos designers;</li>
-  <li>Desenvolver uma pwa com react para mapear os dados obtidos;</li>
-  <li>Construir uma aplicação, com spring webflux, baseado no modelo definido;</li>
-</ul>
-
 
 <h3>GFT Start</h3>
 Programa para formação e recrutamento pela GFT, explorando uma trilha completa em Java.
@@ -66,6 +50,25 @@ Durante esse inicio de jornada o foco está sendo em:<br>
   <li>Me aprofundar nos fundamentos do JavaScript, Java Web e Angular;</li>
   <li>Desenvolver aplicações com, JavaScript, Java e Angular;</li>
 </ul>
+ 
+ <h3>Santander FullStack Developer</h3>
+O objetivo principal é construir uma aplicação que gera extratos bancários. E as atividades desenvolvidas foram:<br>
+<ul dir="auto">
+  <li>Abstrair o Domínio Bancário em Uma API REST com Java;</li>
+  <li>Construir um Front-end com Angularjs do Extrato Bancário;</li>
+</ul>
+
+
+<h3>Carrefour Web Developer</h3>
+Durante a jornada, aprendi e trabalhei com, JavaScript, ReactJS, JAVA e Spring Boot. Onde tive a oportunidade de:<br>
+<ul dir="auto">
+  <li>Criar interfaces, tendo como base modelos definidos pelos designers;</li>
+  <li>Desenvolver uma pwa com react para mapear os dados obtidos;</li>
+  <li>Construir uma aplicação, com spring webflux, baseado no modelo definido;</li>
+</ul>
+
+ 
+ 
  
 
 <h2 dir="auto"> 📝 Meus Contatos </h2> 
