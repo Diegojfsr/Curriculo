@@ -67,17 +67,22 @@ Durante a jornada, aprendi e trabalhei com, JavaScript, ReactJS, JAVA e Spring B
   <li>Construir uma aplicação, com spring webflux, baseado no modelo definido;</li>
 </ul>
 
- 
- 
- 
-
-<h2 dir="auto"> 📝 Meus Contatos </h2> 
+<h2 dir="auto"> 👨‍💻 Meus Contatos </h2> 
 
 <ul dir="auto">
 🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a>  |
   🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a>  |
   🔶<a href="https://www.behance.net/diegojfsr"> <strong>Behance</strong> </a></li>
 </ul>
+
+
+ <h2> 📝 Curriculo em PDF </h2>
+ <a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> 📝 Baixar PDF </a>
+
+ 
+
+
+
 
 
   
