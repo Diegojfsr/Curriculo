@@ -3,7 +3,6 @@
   Sou Diego Jefferson, Frontend Developer</h1>  
 </p> 
 
-
 <h2>DECLARAÇÃO PESSOAL</h2>
 Desenvolvedor Frontend curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos
 Métodos de Desenvolvimento e Processos de Inovação.
