@@ -31,11 +31,26 @@ Durante minha jornada diária, algumas das minhas responsabilidades são:<br>
 </ul>
   
 <h2>PROJETOS | EXPERIÊNCIAS</h2>
-Esses são alguns dos projetos que gosto de destacar, é que tive a oportunidade de participar:
+Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar:
+ 
+ <h3>Santander FullStack Developer</h3>
+O objetivo principal foi construir uma aplicação que gera extratos bancários. Entre outras atividades como:<br>
+<ul dir="auto">
+  <li>Abstrair o Domínio Bancário em Uma API REST com Java;</li>
+  <li>Construir um Front-end com Angularjs do Extrato Bancário;</li>
+</ul>
+
+
+<h3>Carrefour Web Developer</h3>
+Iniciei o aprendizado e trabalhei com, JavaScript, React JS, JAVA e Spring Boot. Tive a oportunidade de:<br>
+<ul dir="auto">
+  <li>Criar interfaces, tendo como base modelos definidos pelos designers;</li>
+  <li>Desenvolver uma pwa com react para mapear os dados obtidos;</li>
+  <li>Construir uma aplicação, com spring webflux, baseado no modelo definido;</li>
+</ul>
 
 <h3>GFT Start</h3>
-Programa para formação e recrutamento pela GFT, explorando uma trilha completa em Java.
-Durante a jornada algumas das atividades desenvolvidas são:<br>
+Algumas das minhas atividades durante a formação e recrutamento pela GFT foram:<br>
 <ul dir="auto">
   <li>Desenvolver aplicações bancárias;</li>
   <li>Criar sistemas utilizando padrões definidos e Orientação a Objetos;</li>
@@ -44,31 +59,15 @@ Durante a jornada algumas das atividades desenvolvidas são:<br>
 
 
 <h3>Start by Capgemini</h3>
-Uma iniciativa da Capgemini para formar e recrutar novos talentos em desenvolvimento Java.
-Durante esse inicio de jornada o foco está sendo em:<br>
+Essas são algumas das minhas obrigações, durante a formação e recrutamento de novos talentos em desenvolvimento Java. <br>
 <ul dir="auto">
   <li>Me aprofundar nos fundamentos do JavaScript, Java Web e Angular;</li>
   <li>Desenvolver aplicações com, JavaScript, Java e Angular;</li>
 </ul>
- 
- <h3>Santander FullStack Developer</h3>
-O objetivo principal é construir uma aplicação que gera extratos bancários. E as atividades desenvolvidas foram:<br>
-<ul dir="auto">
-  <li>Abstrair o Domínio Bancário em Uma API REST com Java;</li>
-  <li>Construir um Front-end com Angularjs do Extrato Bancário;</li>
-</ul>
 
 
-<h3>Carrefour Web Developer</h3>
-Durante a jornada, aprendi e trabalhei com, JavaScript, ReactJS, JAVA e Spring Boot. Onde tive a oportunidade de:<br>
-<ul dir="auto">
-  <li>Criar interfaces, tendo como base modelos definidos pelos designers;</li>
-  <li>Desenvolver uma pwa com react para mapear os dados obtidos;</li>
-  <li>Construir uma aplicação, com spring webflux, baseado no modelo definido;</li>
-</ul>
 
 <h2 dir="auto"> 👨‍💻 Meus Contatos </h2> 
-
 <ul dir="auto">
 🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a>  |
   🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a>  |
